@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e
+
+lb config noauto \
+    -a amd64 \
+    -k amd64 \
+    --distribution wheezy \
+    --archive-areas "main contrib non-free" \
+    --bootappend-live "boot=live config locales=hu_HU.UTF-8 keyboard-layouts=hu" \
+    --debian-installer live \
+	"${@}"
