@@ -15,6 +15,7 @@ flashplugin-nonfree
 gcc-doc
 gdebi
 geany
+geany-plugin-lipsum
 gimp
 gimp-help-en
 git
@@ -33,13 +34,16 @@ libreoffice-help-hu
 libreoffice-l10n-hu
 lintian
 live-boot
+live-boot-doc
 live-build
 live-config
+live-config-doc
 lvm2
 lxtask
 mupdf
 nmap
 racket
+shutter
 synaptic
 tofrodos
 transmission
