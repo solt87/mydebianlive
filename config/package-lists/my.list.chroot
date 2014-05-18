@@ -9,6 +9,7 @@ build-essential
 chromium
 chromium-l10n
 cmus
+debian-installer-launcher
 dosfstools
 ed
 flashplugin-nonfree

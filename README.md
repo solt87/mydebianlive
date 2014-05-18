@@ -4,5 +4,5 @@ These are the config files for my Debian live image. You can use them with live-
 
 For details, see auto/config and the *.list.chroot files.
 
-The live-build manual can be found at <http://live.debian.net/manpages/>
+The live-build manual can be found at <http://live.debian.net>
 
