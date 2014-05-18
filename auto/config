@@ -8,7 +8,7 @@ lb config noauto \
     --distribution wheezy \
     --archive-areas "main contrib non-free" \
     --checksums sha1 \
-    --debian-installer live \
+    --debian-installer true \
     --firmware-chroot true \
     --firmware-binary true \
     --bootappend-live "boot=live config locales=hu_HU.UTF-8 keyboard-layouts=hu" \
