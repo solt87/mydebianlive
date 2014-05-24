@@ -12,6 +12,7 @@ cmus
 debian-installer-launcher
 dosfstools
 ed
+evince
 flashplugin-nonfree
 gcc-doc
 gdebi
