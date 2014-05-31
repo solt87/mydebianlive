@@ -9,6 +9,7 @@ build-essential
 chromium
 chromium-l10n
 cmus
+cryptmount
 cryptsetup
 dosfstools
 ed
