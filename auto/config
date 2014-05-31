@@ -7,7 +7,7 @@ lb config noauto \
     -k amd64 \
     --distribution wheezy \
     --archive-areas "main contrib non-free" \
-    --checksums sha1 \
+    --checksums sha256 \
     --debian-installer true \
     --firmware-chroot true \
     --firmware-binary true \
