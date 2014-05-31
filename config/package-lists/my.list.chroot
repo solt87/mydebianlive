@@ -9,6 +9,7 @@ build-essential
 chromium
 chromium-l10n
 cmus
+cryptsetup
 dosfstools
 ed
 evince
@@ -46,6 +47,7 @@ racket
 scrot
 shutter
 synaptic
+system-config-lvm
 tofrodos
 transmission
 tree
@@ -57,4 +59,5 @@ vlc
 volumeicon-alsa
 xdiskusage
 xfburn
+xpad
 xul-ext-flashblock
