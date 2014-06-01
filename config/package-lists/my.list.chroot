@@ -44,6 +44,8 @@ live-config-doc
 lvm2
 lxtask
 mupdf
+parted
+parted-doc
 racket
 scrot
 shutter
