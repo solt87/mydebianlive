@@ -13,6 +13,7 @@ cryptmount
 cryptsetup
 dosfstools
 ed
+enigmail
 evince
 flashplugin-nonfree
 gcc-doc
@@ -29,6 +30,8 @@ gtkam-gimp
 gtkorphan
 guvcview
 hyphen-hu
+icedove
+icedove-l10n-hu
 iceweasel
 iceweasel-l10n-hu
 keepassx
@@ -64,3 +67,4 @@ xdiskusage
 xfburn
 xpad
 xul-ext-flashblock
+xul-ext-gcontactsync
