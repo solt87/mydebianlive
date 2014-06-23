@@ -51,6 +51,8 @@ parted
 parted-doc
 racket
 scrot
+sgb
+sgb-doc
 shutter
 synaptic
 system-config-lvm
