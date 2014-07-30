@@ -1,8 +1,10 @@
 alpine
 antiword
 aptitude
+aptitude-doc-en
 apt-xapian-index
 audacious
+bpython
 bpython3
 browser-plugin-vlc
 build-essential
@@ -55,6 +57,7 @@ scrot
 sgb
 sgb-doc
 shutter
+startupmanager
 synaptic
 system-config-lvm
 tofrodos
