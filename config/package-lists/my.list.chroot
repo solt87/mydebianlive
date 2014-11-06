@@ -1,8 +1,8 @@
 alpine
 antiword
+apt-doc
 aptitude
 aptitude-doc-en
-apt-doc
 apt-xapian-index
 audacious
 bpython
@@ -17,6 +17,7 @@ cryptsetup
 dosfstools
 ed
 enigmail
+enscript
 evince
 flashplugin-nonfree
 gcc-doc
@@ -53,6 +54,7 @@ lxtask
 mupdf
 parted
 parted-doc
+pdftk
 racket
 scrot
 sgb
