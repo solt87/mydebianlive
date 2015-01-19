@@ -7,3 +7,5 @@ firmware-linux-free
 firmware-linux-nonfree
 firmware-ralink
 firmware-realtek
+virtualbox-guest-utils
+virtualbox-guest-x11
