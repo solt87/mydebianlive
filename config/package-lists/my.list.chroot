@@ -11,12 +11,14 @@ browser-plugin-vlc
 build-essential
 chromium
 chromium-l10n
+claws-mail
+claws-mail-doc
+claws-mail-pgpmime
 cmus
 cryptmount
 cryptsetup
 dosfstools
 ed
-enigmail
 enscript
 evince
 flashplugin-nonfree
@@ -35,8 +37,6 @@ gtkorphan
 gummi
 guvcview
 hyphen-hu
-icedove
-icedove-l10n-hu
 iceweasel
 iceweasel-l10n-hu
 keepassx
@@ -77,7 +77,6 @@ xdiskusage
 xfburn
 xpad
 xul-ext-flashblock
-xul-ext-gcontactsync
 links
 links2
 elinks
