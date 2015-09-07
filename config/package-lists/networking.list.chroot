@@ -33,8 +33,6 @@ python-scapy
 sendip
 sipcrack
 sniffit
-snort
-snort-doc
 ssldump
 tcpdump
 tcpick
