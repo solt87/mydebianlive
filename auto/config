@@ -5,11 +5,18 @@ set -e
 lb config noauto \
     -a amd64 \
     -k amd64 \
-    --distribution wheezy \
+    --distribution jessie \
     --archive-areas "main contrib non-free" \
     --checksums sha256 \
-    --debian-installer true \
+    --debian-installer live \
+    --debian-installer-distribution jessie \
     --firmware-chroot true \
     --firmware-binary true \
-    --bootappend-live "boot=live config locales=hu_HU.UTF-8 keyboard-layouts=hu" \
+    --bootappend-live "boot=live config locales=hu_HU.UTF-8 keyboard-layouts=hu nosplash" \
+    --iso-publisher solt87 \
+    --parent-mirror-bootstrap http://httpredir.debian.org/debian/  \
+    --parent-mirror-binary http://httpredir.debian.org/debian/ \
+    --security true \
+    --updates true \
+    --verbose \
 	"${@}"
