@@ -1,1 +1,3 @@
-task-hungarian task-lxde-desktop task-hungarian-desktop
+task-hungarian
+task-lxde-desktop 
+ask-hungarian-desktop
