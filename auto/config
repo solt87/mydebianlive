@@ -5,11 +5,11 @@ set -e
 lb config noauto \
     -a amd64 \
     -k amd64 \
-    --distribution jessie \
+    --distribution bullseye \
     --archive-areas "main contrib non-free" \
     --checksums sha256 \
     --debian-installer live \
-    --debian-installer-distribution jessie \
+    --debian-installer-distribution bullseye \
     --firmware-chroot true \
     --firmware-binary true \
     --bootappend-live "boot=live components locales=hu_HU.UTF-8 keyboard-layouts=hu nosplash" \
