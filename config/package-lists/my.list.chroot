@@ -21,6 +21,9 @@ dosfstools
 ed
 enscript
 evince
+firefox-esr
+firefox-esr-l10n-en-gb
+firefox-esr-l10n-hu
 gcc-doc
 gdebi
 gdisk
@@ -36,8 +39,6 @@ gtkorphan
 guvcview
 html2text
 hyphen-hu
-iceweasel
-iceweasel-l10n-hu
 keepassx
 libreoffice
 libreoffice-help-hu
