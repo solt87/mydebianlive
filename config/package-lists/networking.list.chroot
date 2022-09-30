@@ -29,7 +29,7 @@ packeth
 paris-traceroute
 pcaputils
 pdfcrack
-python-scapy
+python3-scapy
 sendip
 sipcrack
 sniffit
