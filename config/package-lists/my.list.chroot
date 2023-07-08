@@ -43,9 +43,11 @@ libreoffice-l10n-hu
 lintian
 live-boot
 live-boot-doc
+live-boot-initramfs-tools
 live-build
 live-config
 live-config-doc
+live-config-systemd
 lnav
 lvm2
 lxtask
