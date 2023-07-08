@@ -6,8 +6,6 @@ aptitude-doc-en
 apt-xapian-index
 audacious
 bpython
-bpython3
-browser-plugin-vlc
 build-essential
 chromium
 chromium-l10n
@@ -26,7 +24,6 @@ firefox-esr-l10n-en-gb
 firefox-esr-l10n-hu
 gcc-doc
 gdebi
-gdebi-gtk
 gdisk
 geany
 geany-plugin-lipsum
@@ -36,7 +33,6 @@ git-doc
 grub2
 gtkam
 gtkam-gimp
-gtkorphan
 guvcview
 html2text
 hyphen-hu
@@ -65,9 +61,7 @@ sgb
 sgb-doc
 shutter
 software-properties-gtk
-startupmanager
 synaptic
-system-config-lvm
 tofrodos
 transmission-gtk
 tree
@@ -77,11 +71,8 @@ vim
 vim-doc
 vlc
 volumeicon-alsa
-xdiskusage
 xfburn
 xpad
-xul-ext-flashblock
-links
 links2
 elinks
 elinks-doc

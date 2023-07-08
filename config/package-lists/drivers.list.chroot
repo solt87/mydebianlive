@@ -7,7 +7,4 @@ firmware-linux-free
 firmware-linux-nonfree
 firmware-ralink
 firmware-realtek
-virtualbox-guest-utils
-virtualbox-guest-x11
 xserver-xorg-video-vmware
-xserver-xorg-input-vmmouse
