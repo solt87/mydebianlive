@@ -14,8 +14,8 @@ lb config noauto \
     --firmware-binary true \
     --bootappend-live "boot=live components locales=hu_HU.UTF-8 keyboard-layouts=hu nosplash" \
     --iso-publisher solt87 \
-    --parent-mirror-bootstrap http://ftp.hu.debian.org/debian/ \
-    --parent-mirror-binary http://ftp.hu.debian.org/debian/ \
+    --parent-mirror-bootstrap http://deb.debian.org/debian/ \
+    --parent-mirror-binary http://deb.debian.org/debian/ \
     --security true \
     --updates true \
     --verbose \
