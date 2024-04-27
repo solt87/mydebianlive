@@ -51,7 +51,11 @@ live-config-systemd
 lnav
 lvm2
 lxtask
+lzip
+lunzip
 mupdf
+p7zip-full
+p7zip-rar
 parted
 parted-doc
 pdfcrack
