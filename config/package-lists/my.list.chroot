@@ -65,6 +65,7 @@ parted-doc
 pdfcrack
 pdftk
 poppler-utils
+python3-zxcvbn
 racket
 scrot
 sent
