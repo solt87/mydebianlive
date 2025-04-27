@@ -67,6 +67,7 @@ pdftk
 poppler-utils
 python3-zxcvbn
 racket
+screen
 scrot
 sent
 sgb
@@ -75,6 +76,7 @@ shutter
 software-properties-gtk
 synaptic
 thonny
+tmux
 tofrodos
 transmission-gtk
 tree
