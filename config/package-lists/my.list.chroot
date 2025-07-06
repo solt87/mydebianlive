@@ -84,6 +84,7 @@ tuxcmd
 tuxcmd-modules
 vim
 vim-doc
+vim-tabular
 vlc
 volumeicon-alsa
 xfburn
